@@ -1,655 +1,537 @@
-版权所有 © 2025  咡如夏（ERX399）保留所有权利。
-Copyright © 2025  咡如夏 (ERX399)  <https://github.com/ERX399>  All Rights Reserved.
+ERX399 专有许可协议 [专有协议 · 保留所有权利]
+ERX399 Proprietary License, Version 1.0 (EPL-1.0) [Proprietary · All Rights Reserved]
 
-本协议中英文版本具有同等效力。如两版本之间存在任何歧义
-或冲突，以中文版本的解释为准。
+版权所有 © 2025 咡如夏（ERX399）保留所有权利。
+Copyright © 2025 咡如夏 (ERX399) <https://github.com/ERX399> All Rights Reserved.
 
-The Chinese and English versions of this License are equally
-binding. In the event of any ambiguity or conflict, the Chinese
-version shall prevail.
+本协议中英文版本具有同等效力。如两版本之间存在任何歧义或冲突，以中文版本的解释为准。
+The Chinese and English versions of this License are equally binding.
+In the event of any ambiguity or conflict, the Chinese version shall prevail.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                        中 文 版 本
+ 中文版本
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-第一条  定义
+第一条 定义
 
+ 一、"著作权人"，指本协议唯一著作权人咡如夏（ERX399）。
 
-    一、"著作权人"，指本协议唯一著作权人咡如夏（ERX399）。
+ 二、"本内容"，指本仓库内一切原创作品，无论是否已公开发布，包括但不限于：
+ 源代码、脚本、程序架构及算法逻辑；界面设计（UI/UX）、交互逻辑及视觉元素；
+ 配色方案、字体排版及品牌视觉识别；美术作品、插图、像素画及数字绘画；文章、
+ 散文、诗歌、评论及一切文字作品；创意构思、设计理念及文档说明；音频、动画、
+ 视频及多媒体内容；数据结构、数据库设计及内容组织方式；配置文件及构建工具；
+ 本仓库整体结构、目录组织及呈现方式本身；以及上述任何内容的局部、片段、截图
+ 或衍生形式。
 
-    二、"本内容"，指本仓库内一切原创作品，无论是否已公开
-        发布，包括但不限于：源代码、脚本、程序架构及算法
-        逻辑；界面设计（UI/UX）、交互逻辑及视觉元素；配色
-        方案、字体排版及品牌视觉识别；美术作品、插图、像素
-        画及数字绘画；文章、散文、诗歌、评论及一切文字作品；
-        创意构思、设计理念及文档说明；音频、动画、视频及多
-        媒体内容；数据结构、数据库设计及内容组织方式；配置
-        文件及构建工具；本仓库整体结构、目录组织及呈现方式
-        本身；以及上述任何内容的局部、片段、截图或衍生形式。
+ 三、"您"，指以任何方式访问、读取或与本仓库产生交互的任何个人、团体、企业、
+ 机构、组织、自动化系统或人工智能代理。
 
-    三、"您"，指以任何方式访问、读取或与本仓库产生交互的
-        任何个人、团体、企业、机构、组织、自动化系统或人工
-        智能代理。
+ 四、"第三方内容"，指本仓库中可能引用或使用的、由著作权人以外的第三方创作的
+ 任何库、API、框架、字体、工具或其他材料。
 
-    四、"第三方内容"，指本仓库中可能引用或使用的、由著作
-        权人以外的第三方创作的任何库、API、框架、字体、工具
-        或其他材料。
+ 五、"授权"，仅指著作权人依照本协议第四条规定的程序，事先以书面形式明确授予
+ 的许可。任何其他形式的许可均不构成本协议所称之有效授权。
 
-    五、"授权"，仅指著作权人依照本协议第四条规定的程序，
-        事先以书面形式明确授予的许可。任何其他形式的许可均
-        不构成本协议所称之有效授权。
 
+第二条 权利授予
 
-第二条  权利授予
+ 本协议默认不向任何人授予任何权利。
 
+ 在未获得授权的情况下，唯一被允许的行为是通过官方渠道在线浏览本内容。浏览行
+ 为本身不构成任何形式的授权或许可。
 
-    本协议默认不向任何人授予任何权利。
+ 除上述浏览行为外，对本内容的任何其他使用均须事先获得著作权人的书面授权。授
+ 权申请程序详见第四条。
 
-    在未获得授权的情况下，唯一被允许的行为是通过官方渠道
-    在线浏览本内容。浏览行为本身不构成任何形式的授权或许可。
 
-    除上述浏览行为外，对本内容的任何其他使用均须事先获得
-    著作权人的书面授权。授权申请程序详见第四条。
+第三条 禁止事项
 
+ 未经授权，任何个人、团体、企业、机构、组织、自动化系统或人工智能代理，无论
+ 其所在地区、所属行业、组织规模或行为目的，均严格禁止实施以下一切行为：
 
-第三条  禁止事项
+ 第一款 复制与存储
 
+  第一项 以任何方式复制、下载、缓存、截图、录屏、打印或存储本内容的全部或
+  任何部分；
 
-    未经授权，任何个人、团体、企业、机构、组织、自动化系统
-    或人工智能代理，无论其所在地区、所属行业、组织规模或行
-    为目的，均严格禁止实施以下一切行为：
+  第二项 通过浏览器插件、网络爬虫、自动化脚本、镜像工具或任何其他技术手段
+  批量抓取本内容；
 
+  第三项 将本内容存储于任何本地设备、服务器、云端存储、网络硬盘或离线介质
+  之上。
 
-    第一款  复制与存储
+ 第二款 传播与分发
 
-        第一项  以任何方式复制、下载、缓存、截图、录屏、打
-                印或存储本内容的全部或任何部分；
+  第一项 以任何形式发布、转载、转发、分发、广播或传播本内容；
 
-        第二项  通过浏览器插件、网络爬虫、自动化脚本、镜像
-                工具或任何其他技术手段批量抓取本内容；
+  第二项 将本内容上传至任何平台、网站、论坛、数据库、云端存储、社交媒体或
+  内容分发网络；
 
-        第三项  将本内容存储于任何本地设备、服务器、云端存
-                储、网络硬盘或离线介质之上。
+  第三项 通过电子邮件、即时通讯工具、私信或任何其他通信手段向任何第三方传
+  送本内容；
 
+  第四项 以镜像、代理转发或其他间接方式传播本内容；
 
-    第二款  传播与分发
+  第五项 以口头、书面或任何其他方式向他人描述、复述或还原本内容的核心结构
+  或实质内容。
 
-        第一项  以任何形式发布、转载、转发、分发、广播或传
-                播本内容；
+ 第三款 修改与衍生
 
-        第二项  将本内容上传至任何平台、网站、论坛、数据库、
-                云端存储、社交媒体或内容分发网络；
+  第一项 以任何方式修改、编辑、裁剪、翻译、改编或重新排列本内容；
 
-        第三项  通过电子邮件、即时通讯工具、私信或任何其他
-                通信手段向任何第三方传送本内容；
+  第二项 以本内容为基础、以本内容为参考或受本内容启发，创作任何形式的衍生
+  作品；
 
-        第四项  以镜像、代理转发或其他间接方式传播本内容；
+  第三项 将本内容与其他内容合并、混合或整合后以任何形式呈现或发布；
 
-        第五项  以口头、书面或任何其他方式向他人描述、复述
-                或还原本内容的核心结构或实质内容。
+  第四项 模仿本内容的风格、结构、版式或视觉语言，并将模仿成果对外发布。
 
+ 第四款 商业行为
 
-    第三款  修改与衍生
+  第一项 将本内容用于任何商业目的，包括但不限于商品销售、广告投放、品牌推
+  广、商业融资、项目竞标及商业演示；
 
-        第一项  以任何方式修改、编辑、裁剪、翻译、改编或重
-                新排列本内容；
+  第二项 以本内容申请任何专利、商标、著作权登记或其他知识产权保护；
 
-        第二项  以本内容为基础、以本内容为参考或受本内容启
-                发，创作任何形式的衍生作品；
+  第三项 将本内容用于任何以营利为目的的产品、服务或平台；
 
-        第三项  将本内容与其他内容合并、混合或整合后以任何
-                形式呈现或发布；
+  第四项 将本内容作为任何商业谈判或商业合作的筹码或条件。
 
-        第四项  模仿本内容的风格、结构、版式或视觉语言，并
-                将模仿成果对外发布。
+ 第五款 人工智能与数据利用
 
+  第一项 将本内容用于训练、微调、测试或评估任何人工智能、机器学习或深度学
+  习模型及算法；
 
-    第四款  商业行为
+  第二项 将本内容纳入任何数据集、语料库、向量数据库或知识库；
 
-        第一项  将本内容用于任何商业目的，包括但不限于商品
-                销售、广告投放、品牌推广、商业融资、项目竞标
-                及商业演示；
+  第三项 使用任何人工智能工具对本内容进行分析、总结、提取或结构化处理，并
+  将处理结果对外发布；
 
-        第二项  以本内容申请任何专利、商标、著作权登记或其
-                他知识产权保护；
+  第四项 允许任何自动化系统以任何目的对本内容进行读取、索引或处理。
 
-        第三项  将本内容用于任何以营利为目的的产品、服务或
-                平台；
+ 第六款 学术与教育用途
 
-        第四项  将本内容作为任何商业谈判或商业合作的筹码或
-                条件。
+  第一项 在任何学术论文、研究报告、教学材料或课程内容中引用、转载或使用本
+  内容；
 
+  第二项 将本内容用于任何公开讲座、学术演讲、职业培训或其他教育场合。
 
-    第五款  人工智能与数据利用
+ 第七款 新闻与媒体用途
 
-        第一项  将本内容用于训练、微调、测试或评估任何人工
-                智能、机器学习或深度学习模型及算法；
+  第一项 在任何新闻报道、媒体采访、评论文章或自媒体内容中引用、展示或描述
+  本内容；
 
-        第二项  将本内容纳入任何数据集、语料库、向量数据库
-                或知识库；
+  第二项 对本内容进行截图或录制，并将所得内容对外公开传播。
 
-        第三项  使用任何人工智能工具对本内容进行分析、总结、
-                提取或结构化处理，并将处理结果对外发布；
+ 第八款 署名与权利声明
 
-        第四项  允许任何自动化系统以任何目的对本内容进行读
-                取、索引或处理。
+  第一项 删除、遮盖或以任何方式修改本内容中所包含的版权声明、署名信息、水
+  印或其他权属标识；
 
+  第二项 以任何方式主张对本内容拥有所有权、创作权或任何形式的使用权；
 
-    第六款  学术与教育用途
+  第三项 在未获得授权的情况下，以任何方式公开提及、展示或关联本内容。
 
-        第一项  在任何学术论文、研究报告、教学材料或课程内
-                容中引用、转载或使用本内容；
+ 第九款 技术规避
 
-        第二项  将本内容用于任何公开讲座、学术演讲、职业培
-                训或其他教育场合。
+  第一项 尝试规避、破解或绕过著作权人对本内容所实施的任何技术保护措施；
 
+  第二项 对本内容实施逆向工程、反编译或反汇编；
 
-    第七款  新闻与媒体用途
+  第三项 通过任何技术手段获取本内容尚未公开的部分或原始源文件。
 
-        第一项  在任何新闻报道、媒体采访、评论文章或自媒体
-                内容中引用、展示或描述本内容；
+ 第十款 间接行为与协助
 
-        第二项  对本内容进行截图或录制，并将所得内容对外公
-                开传播。
+  第一项 协助、唆使、允许、资助或默许任何第三方实施本条前述任何禁止行为；
 
+  第二项 向他人提供工具、平台或其他便利条件，使其得以实施本条前述任何禁止
+  行为。
 
-    第八款  署名与权利声明
 
-        第一项  删除、遮盖或以任何方式修改本内容中所包含的
-                版权声明、署名信息、水印或其他权属标识；
+第四条 授权申请程序
 
-        第二项  以任何方式主张对本内容拥有所有权、创作权或
-                任何形式的使用权；
+ 如需就本内容申请任何形式的使用授权，申请人须同时满足以下全部条件，任何一项
+ 条件的缺失均导致授权无效：
 
-        第三项  在未获得授权的情况下，以任何方式公开提及、
-                展示或关联本内容。
+  一、通过 GitHub Issues 以书面形式向著作权人提交正式申请，并在申请中明确说
+  明拟使用的目的、范围、期限及具体方式；
 
+  二、收到著作权人明确的书面回复，确认同意授权；
 
-    第九款  技术规避
+  三、签署著作权人提供的书面授权协议原件；
 
-        第一项  尝试规避、破解或绕过著作权人对本内容所实施
-                的任何技术保护措施；
+  四、在授权有效期内严格遵守授权协议所规定的全部条件及附加要求；
 
-        第二项  对本内容实施逆向工程、反编译或反汇编；
+  五、授权到期后，立即停止一切使用行为并删除全部相关内容。
 
-        第三项  通过任何技术手段获取本内容尚未公开的部分或
-                原始源文件。
+ 以下情形均不构成本协议所认可的有效授权：口头约定或口头许可；默示许可或以行
+ 为推定的许可；任何一方的单方面声明或单方面理解；通过第三方转达或传递的许可；
+ 以及任何已过期或超出约定范围的历史授权。
 
+ 联系方式：https://github.com/ERX399
 
-    第十款  间接行为与协助
 
-        第一项  协助、唆使、允许、资助或默许任何第三方实施
-                本条前述任何禁止行为；
+第五条 第三方内容声明
 
-        第二项  向他人提供工具、平台或其他便利条件，使其得
-                以实施本条前述任何禁止行为。
+ 本仓库可能引用或包含由第三方创作的内容，包括但不限于开源软件库、应用程序接
+ 口（API）、开发框架、字体及其他工具。上述第三方内容不受本协议约束，仅适用其
+ 各自的许可协议。
 
+ 著作权人不就任何第三方内容主张所有权或著作权。第三方内容的存在不以任何方式
+ 扩大本协议授予您的权利范围。您须自行查阅并遵守所涉及的任何第三方内容的许可
+ 条款，著作权人对因第三方内容引发的任何纠纷、索赔或损失不承担任何责任。
 
-第四条  授权申请程序
 
+第六条 免责声明
 
-    如需就本内容申请任何形式的使用授权，申请人须同时满足
-    以下全部条件，任何一项条件的缺失均导致授权无效：
+ 本内容按"现状"提供。著作权人不就本内容的适用性、准确性、完整性或不侵权性
+ 作出任何明示或默示的保证或承诺。
 
-        一、通过 GitHub Issues 以书面形式向著作权人提交正式
-            申请，并在申请中明确说明拟使用的目的、范围、
-            期限及具体方式；
+ 对于因访问、使用或依赖本内容，或因本仓库所引用的任何第三方内容而产生的任何
+ 直接、间接、附带、特殊、惩罚性或后果性损失，著作权人不承担任何赔偿责任，即
+ 使著作权人事先已被告知上述损失发生的可能性。
 
-        二、收到著作权人明确的书面回复，确认同意授权；
+ 著作权人保留随时对本内容进行修改、删除、限制访问或停止提供的权利，且无需事
+ 先通知，亦不因此承担任何责任。
 
-        三、签署著作权人提供的书面授权协议原件；
 
-        四、在授权有效期内严格遵守授权协议所规定的全部条件
-            及附加要求；
+第七条 侵权责任与执行
 
-        五、授权到期后，立即停止一切使用行为并删除全部相关
-            内容。
+ 任何违反本协议的行为均构成对著作权人著作权的侵犯。著作权人保留依法追究侵权
+ 方以下全部法律责任的权利：
 
-    以下情形均不构成本协议所认可的有效授权：口头约定或口头
-    许可；默示许可或以行为推定的许可；任何一方的单方面声明
-    或单方面理解；通过第三方转达或传递的许可；以及任何已过
-    期或超出约定范围的历史授权。
+  一、民事责任：要求侵权方立即停止侵害行为、消除侵权影响、公开赔礼道歉，并
+  赔偿著作权人因此遭受的一切直接损失、间接损失及合理维权费用；
 
-    联系方式：https://github.com/ERX399
+  二、行政责任：就侵权行为向有关主管部门提起投诉，并申请对侵权方予以行政处
+  罚；
 
+  三、刑事责任：对于情节严重的侵权行为，依法向司法机关移送并追究侵权方的刑
+  事责任；
 
-第五条  第三方内容声明
+  四、平台投诉：依据《数字千年版权法》（DMCA）或其他适用的等效规定，向
+  GitHub 及其他相关平台提交侵权投诉，要求删除侵权内容。
 
 
-    本仓库可能引用或包含由第三方创作的内容，包括但不限于开
-    源软件库、应用程序接口（API）、开发框架、字体及其他工具。
-    上述第三方内容不受本协议约束，仅适用其各自的许可协议。
+第八条 适用法律与管辖
 
-    著作权人不就任何第三方内容主张所有权或著作权。第三方内
-    容的存在不以任何方式扩大本协议授予您的权利范围。您须自
-    行查阅并遵守所涉及的任何第三方内容的许可条款，著作权人
-    对因第三方内容引发的任何纠纷、索赔或损失不承担任何责任。
+ 本协议的订立、效力、解释及履行，均受下列法律法规的约束：
 
+ 国内适用法律：《中华人民共和国著作权法》（2020年修订）、《中华人民共和国民
+ 法典》、《中华人民共和国网络安全法》、《信息网络传播权保护条例》。
 
-第六条  免责声明
+ 适用国际条约：《保护文学和艺术作品伯尔尼公约》、《世界知识产权组织版权条约》
+ （WCT）、《与贸易有关的知识产权协定》（TRIPS）、《世界版权公约》（UCC）。
 
+ 因本协议引发的或与本协议相关的任何争议，由著作权人住所地有管辖权的人民法院
+ 专属管辖。
 
-    本内容按"现状"提供。著作权人不就本内容的适用性、准确
-    性、完整性或不侵权性作出任何明示或默示的保证或承诺。
 
-    对于因访问、使用或依赖本内容，或因本仓库所引用的任何第
-    三方内容而产生的任何直接、间接、附带、特殊、惩罚性或后
-    果性损失，著作权人不承担任何赔偿责任，即使著作权人事先
-    已被告知上述损失发生的可能性。
+第九条 一般条款
 
-    著作权人保留随时对本内容进行修改、删除、限制访问或停止
-    提供的权利，且无需事先通知，亦不因此承担任何责任。
+ 一、可分割性。本协议任何条款被有权机关认定为无效或不可执行的，不影响本协议
+ 其余条款的效力，其余条款继续完整有效。
 
+ 二、不弃权。著作权人未就某一违约行为行使本协议项下的权利，不构成著作权人对
+ 该权利的放弃，亦不影响著作权人就日后同类行为行使相应权利。
 
-第七条  侵权责任与执行
+ 三、协议修订。著作权人保留随时修订本协议的权利。修订后的协议自发布之日起生
+ 效。您在修订发布后继续访问本内容，即视为接受修订后的协议条款。
 
+ 四、完整协议。本协议构成您与著作权人之间就本内容所达成的完整协议，并取代双
+ 方此前就同一事项所作的一切口头或书面约定。
 
-    任何违反本协议的行为均构成对著作权人著作权的侵犯。著作
-    权人保留依法追究侵权方以下全部法律责任的权利：
+ 五、生效与终止。本协议自本内容首次公开发布之日起生效，持续有效，直至著作权
+ 人以书面形式明确宣布终止为止。
 
-        一、民事责任：要求侵权方立即停止侵害行为、消除侵权
-            影响、公开赔礼道歉，并赔偿著作权人因此遭受的一
-            切直接损失、间接损失及合理维权费用；
 
-        二、行政责任：就侵权行为向有关主管部门提起投诉，并
-            申请对侵权方予以行政处罚；
-
-        三、刑事责任：对于情节严重的侵权行为，依法向司法机
-            关移送并追究侵权方的刑事责任；
-
-        四、平台投诉：依据《数字千年版权法》（DMCA）或其他
-            适用的等效规定，向 GitHub 及其他相关平台提交侵
-            权投诉，要求删除侵权内容。
-
-
-第八条  适用法律与管辖
-
-
-    本协议的订立、效力、解释及履行，均受下列法律法规的约束：
-
-    国内适用法律：《中华人民共和国著作权法》（2020年修订）、
-    《中华人民共和国民法典》、《中华人民共和国网络安全法》、
-    《信息网络传播权保护条例》。
-
-    适用国际条约：《保护文学和艺术作品伯尔尼公约》、《世界
-    知识产权组织版权条约》（WCT）、《与贸易有关的知识产权
-    协定》（TRIPS）、《世界版权公约》（UCC）。
-
-    因本协议引发的或与本协议相关的任何争议，由著作权人住所
-    地有管辖权的人民法院专属管辖。
-
-
-第九条  一般条款
-
-
-    一、可分割性。本协议任何条款被有权机关认定为无效或不可
-        执行的，不影响本协议其余条款的效力，其余条款继续完
-        整有效。
-
-    二、不弃权。著作权人未就某一违约行为行使本协议项下的权
-        利，不构成著作权人对该权利的放弃，亦不影响著作权人
-        就日后同类行为行使相应权利。
-
-    三、协议修订。著作权人保留随时修订本协议的权利。修订后
-        的协议自发布之日起生效。您在修订发布后继续访问本内
-        容，即视为接受修订后的协议条款。
-
-    四、完整协议。本协议构成您与著作权人之间就本内容所达成
-        的完整协议，并取代双方此前就同一事项所作的一切口头
-        或书面约定。
-
-    五、生效与终止。本协议自本内容首次公开发布之日起生效，
-        持续有效，直至著作权人以书面形式明确宣布终止为止。
-
-
-                    侵权必究。未经授权，拒绝一切使用。
+ 侵权必究。未经授权，拒绝一切使用。
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                       ENGLISH VERSION
-                  (Chinese version takes precedence)
+ ENGLISH VERSION (Chinese version takes precedence)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-Article 1  Definitions
+Article 1 Definitions
 
+ 1.1 "Author" means 咡如夏 (ERX399), the sole copyright holder.
 
-    1.1  "Author" means 咡如夏 (ERX399), the sole copyright holder
-         of all Content covered by this License.
+ 1.2 "Content" means all original works in this repository, whether published
+ or unpublished, including but not limited to: source code, scripts, program
+ architecture and algorithms; UI/UX design, interaction logic and visual
+ elements; color schemes, typography and brand visual identity; artwork,
+ illustrations, pixel art and digital paintings; articles, prose, poetry,
+ commentary and all written works; creative concepts, design philosophy and
+ documentation; audio, animation, video and multimedia content; data structures,
+ database designs and content organization; configuration files and build
+ tooling; the overall structure, directory organization and presentation of this
+ repository itself; and any portion, fragment, screenshot or derivative form of
+ any of the foregoing.
 
-    1.2  "Content" means all original works in this repository,
-         whether published or unpublished, including but not limited
-         to: source code, scripts, program architecture and algorithms;
-         UI/UX design, interaction logic and visual elements; color
-         schemes, typography and brand visual identity; artwork,
-         illustrations, pixel art and digital paintings; articles,
-         prose, poetry, commentary and all written works; creative
-         concepts, design philosophy and documentation; audio,
-         animation, video and multimedia content; data structures,
-         database designs and content organization; configuration
-         files and build tooling; the overall structure, directory
-         organization and presentation of this repository itself;
-         and any portion, fragment, screenshot or derivative form
-         of any of the foregoing.
+ 1.3 "You" means any individual, group, company, institution, organization,
+ automated system or AI agent that accesses, reads or interacts with this
+ repository in any manner.
 
-    1.3  "You" means any individual, group, company, institution,
-         organization, automated system or AI agent that accesses,
-         reads or interacts with this repository in any manner.
+ 1.4 "Third-Party Components" means any libraries, APIs, frameworks, fonts,
+ tools or other materials created by parties other than the Author that may be
+ referenced or used within this repository.
 
-    1.4  "Third-Party Components" means any libraries, APIs,
-         frameworks, fonts, tools or other materials created by
-         parties other than the Author that may be referenced or
-         used within this repository.
+ 1.5 "Authorization" means exclusively a prior, explicit, written permission
+ granted by the Author in accordance with Article 4. No other form of permission
+ constitutes a valid Authorization under this License.
 
-    1.5  "Authorization" means exclusively a prior, explicit,
-         written permission granted by the Author in accordance
-         with the procedure set out in Article 4. No other form
-         of permission constitutes a valid Authorization under
-         this License.
 
+Article 2 Grant of Rights
 
-Article 2  Grant of Rights
+ No rights are granted to You by default under this License.
 
+ The only activity permitted without Authorization is viewing the Content online
+ through its official channel. Such viewing does not constitute Authorization or
+ permission of any kind.
 
-    No rights are granted to You by default under this License.
+ Any use of the Content beyond the above viewing requires prior written
+ Authorization from the Author. See Article 4 for the request procedure.
 
-    The only activity permitted without Authorization is viewing
-    the Content online through its official channel. Such viewing
-    does not constitute Authorization or permission of any kind.
 
-    Any use of the Content beyond the above viewing requires prior
-    written Authorization from the Author. See Article 4 for the
-    request procedure.
+Article 3 Restrictions
 
+ Without Authorization, You may not, under any circumstance, for any purpose,
+ via any medium, in any industry or jurisdiction, perform any of the following:
 
-Article 3  Restrictions
+ Section 1 Reproduction and Storage
 
+  (i) Reproduce, download, cache, screenshot, screen-record, print or store all
+  or any part of the Content by any means whatsoever;
 
-    Without Authorization, You may not, under any circumstance,
-    for any purpose, via any medium, in any industry or jurisdiction,
-    perform any of the following acts:
+  (ii) Retrieve or scrape the Content in bulk via browser plugins, crawlers,
+  scripts, mirroring tools or any other automated or technical means;
 
+  (iii) Store the Content on any local device, server, cloud storage, network
+  drive or offline medium.
 
-    Section 1  Reproduction and Storage
+ Section 2 Distribution and Dissemination
 
-        (i)   Reproduce, download, cache, screenshot, screen-record,
-              print or store all or any part of the Content by any
-              means whatsoever;
+  (i) Publish, repost, forward, distribute, broadcast or transmit the Content
+  in any form;
 
-        (ii)  Retrieve or scrape the Content in bulk via browser
-              plugins, crawlers, scripts, mirroring tools or any
-              other automated or technical means;
+  (ii) Upload the Content to any platform, website, forum, database, cloud
+  storage, social media or content delivery network;
 
-        (iii) Store the Content on any local device, server, cloud
-              storage, network drive or offline medium.
+  (iii) Transmit the Content to any third party via email, instant messaging,
+  direct message or any other communication tool;
 
+  (iv) Indirectly disseminate the Content via mirroring, proxies or forwarding
+  services;
 
-    Section 2  Distribution and Dissemination
+  (v) Describe or reconstruct the core structure or substantive content of the
+  Content to others by any means.
 
-        (i)   Publish, repost, forward, distribute, broadcast or
-              transmit the Content in any form;
+ Section 3 Modification and Derivative Works
 
-        (ii)  Upload the Content to any platform, website, forum,
-              database, cloud storage, social media or content
-              delivery network;
+  (i) Modify, edit, crop, translate, adapt or rearrange the Content in any way;
 
-        (iii) Transmit the Content to any third party via email,
-              instant messaging, direct message or any other
-              communication tool;
+  (ii) Create any derivative work based on, referencing or inspired by the
+  Content;
 
-        (iv)  Indirectly disseminate the Content via mirroring,
-              proxies or forwarding services;
+  (iii) Merge, mix or integrate the Content with other content for presentation
+  or publication in any form;
 
-        (v)   Describe or reconstruct the core structure or
-              substantive content of the Content to others by
-              any means, whether verbally, in writing or otherwise.
+  (iv) Imitate the style, structure, layout or visual language of the Content
+  and publish such imitation.
 
+ Section 4 Commercial Use
 
-    Section 3  Modification and Derivative Works
+  (i) Use the Content for any commercial purpose, including but not limited to
+  sales, advertising, promotion, fundraising, competitive bidding and commercial
+  presentations;
 
-        (i)   Modify, edit, crop, translate, adapt or rearrange
-              the Content in any way;
+  (ii) File for any patent, trademark, copyright registration or other
+  intellectual property right using the Content;
 
-        (ii)  Create any derivative work based on, referencing
-              or inspired by the Content;
+  (iii) Use the Content in any for-profit product, service or platform;
 
-        (iii) Merge, mix or integrate the Content with other
-              content for presentation or publication in any form;
+  (iv) Use the Content as leverage or consideration in any commercial
+  negotiation or collaboration.
 
-        (iv)  Imitate the style, structure, layout or visual
-              language of the Content and publish such imitation.
+ Section 5 Artificial Intelligence and Data Use
 
+  (i) Use the Content to train, fine-tune, test or evaluate any artificial
+  intelligence, machine learning or deep learning model or algorithm;
 
-    Section 4  Commercial Use
+  (ii) Include the Content in any dataset, corpus, vector store or knowledge
+  base;
 
-        (i)   Use the Content for any commercial purpose, including
-              but not limited to sales, advertising, promotion,
-              fundraising, competitive bidding and commercial
-              presentations;
+  (iii) Use any AI tool to analyze, summarize, extract or structure the Content
+  and publish the output;
 
-        (ii)  File for any patent, trademark, copyright registration
-              or other intellectual property right using the Content;
+  (iv) Allow any automated system to read, index or process the Content for any
+  purpose.
 
-        (iii) Use the Content in any for-profit product, service
-              or platform;
+ Section 6 Academic and Educational Use
 
-        (iv)  Use the Content as leverage or consideration in any
-              commercial negotiation or collaboration.
+  (i) Cite, reproduce or use the Content in any academic paper, research
+  report, teaching material or course content;
 
+  (ii) Use the Content in any public lecture, academic presentation,
+  professional training or educational setting.
 
-    Section 5  Artificial Intelligence and Data Use
+ Section 7 Press and Media Use
 
-        (i)   Use the Content to train, fine-tune, test or evaluate
-              any artificial intelligence, machine learning or deep
-              learning model or algorithm;
+  (i) Cite, display or describe the Content in any news report, media
+  interview, commentary article or self-media content;
 
-        (ii)  Include the Content in any dataset, corpus, vector
-              store or knowledge base;
+  (ii) Screenshot or record the Content and distribute such material publicly.
 
-        (iii) Use any AI tool to analyze, summarize, extract or
-              structure the Content and publish the output;
+ Section 8 Attribution and Rights Claims
 
-        (iv)  Allow any automated system to read, index or process
-              the Content for any purpose.
+  (i) Remove, obscure or alter any copyright notice, attribution, watermark or
+  rights identifier contained in the Content;
 
+  (ii) Claim ownership, authorship or any usage rights over the Content in any
+  manner;
 
-    Section 6  Academic and Educational Use
+  (iii) Publicly mention, display or associate the Content without
+  Authorization.
 
-        (i)   Cite, reproduce or use the Content in any academic
-              paper, research report, teaching material or course
-              content;
+ Section 9 Technical Circumvention
 
-        (ii)  Use the Content in any public lecture, academic
-              presentation, professional training or educational
-              setting.
+  (i) Attempt to circumvent, crack or bypass any technical protection measure
+  applied to the Content;
 
+  (ii) Reverse-engineer, decompile or disassemble the Content;
 
-    Section 7  Press and Media Use
+  (iii) Obtain any unpublished portion or source file of the Content through
+  any technical means.
 
-        (i)   Cite, display or describe the Content in any news
-              report, media interview, commentary article or
-              self-media content;
+ Section 10 Indirect Acts and Facilitation
 
-        (ii)  Screenshot or record the Content and distribute
-              such material publicly.
+  (i) Assist, induce, permit, fund or condone any third party in committing any
+  act prohibited under this Article;
 
+  (ii) Provide tools, platforms or other means that enable any third party to
+  commit any act prohibited under this Article.
 
-    Section 8  Attribution and Rights Claims
 
-        (i)   Remove, obscure or alter any copyright notice,
-              attribution, watermark or rights identifier contained
-              in the Content;
+Article 4 Authorization Procedure
 
-        (ii)  Claim ownership, authorship or any usage rights over
-              the Content in any manner;
+ To request Authorization, the applicant must satisfy all of the following
+ conditions simultaneously. The absence of any single condition renders the
+ Authorization invalid:
 
-        (iii) Publicly mention, display or associate the Content
-              without Authorization.
+  (a) Submit a formal written application to the Author via GitHub Issues,
+  clearly stating the intended purpose, scope, duration and method of use;
 
+  (b) Receive explicit written confirmation of Authorization from the Author;
 
-    Section 9  Technical Circumvention
+  (c) Execute the written authorization agreement provided by the Author;
 
-        (i)   Attempt to circumvent, crack or bypass any technical
-              protection measure applied to the Content;
+  (d) Comply strictly with all terms and conditions set out in the authorization
+  agreement throughout its duration;
 
-        (ii)  Reverse-engineer, decompile or disassemble the Content;
+  (e) Immediately cease all use and delete all related Content upon expiration
+  of the Authorization.
 
-        (iii) Obtain any unpublished portion or source file of the
-              Content through any technical means.
+ The following do not constitute valid Authorization: verbal agreements or
+ verbal permissions; implied licenses or permissions inferred from conduct;
+ unilateral declarations or interpretations by either party; permissions
+ conveyed through third parties; and expired or out-of-scope historical
+ authorizations.
 
+ Contact: https://github.com/ERX399
 
-    Section 10  Indirect Acts and Facilitation
 
-        (i)   Assist, induce, permit, fund or condone any third party
-              in committing any act prohibited under this Article;
+Article 5 Third-Party Components
 
-        (ii)  Provide tools, platforms or other means that enable
-              any third party to commit any act prohibited under
-              this Article.
+ This repository may reference or incorporate Third-Party Components. Such
+ components are governed solely by their own respective licenses and are not
+ covered by this License.
 
+ The Author makes no claim of ownership over any Third-Party Component. Their
+ presence does not expand the rights granted to You under this License. You are
+ solely responsible for complying with the applicable license terms of any
+ Third-Party Components you access. The Author bears no liability for any
+ dispute, claim or loss arising from Third-Party Components.
 
-Article 4  Authorization Procedure
 
+Article 6 Disclaimer of Warranties
 
-    To request Authorization, the applicant must satisfy all of
-    the following conditions simultaneously. The absence of any
-    single condition renders the Authorization invalid:
+ THE CONTENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+ FOR A PARTICULAR PURPOSE, ACCURACY OR NON-INFRINGEMENT.
 
-        (a)  Submit a formal written application to the Author via
-             GitHub Issues, clearly stating the intended purpose,
-             scope, duration and method of use;
+ IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING FROM ACCESS TO, USE OF OR
+ RELIANCE ON THE CONTENT OR ANY THIRD-PARTY COMPONENTS REFERENCED HEREIN, EVEN
+ IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-        (b)  Receive explicit written confirmation of Authorization
-             from the Author;
+ The Author reserves the right to modify, remove, restrict access to or
+ discontinue the Content at any time without prior notice and without liability.
 
-        (c)  Execute the written authorization agreement provided
-             by the Author;
 
-        (d)  Comply strictly with all terms and conditions set out
-             in the authorization agreement throughout its duration;
+Article 7 Enforcement and Liability
 
-        (e)  Immediately cease all use and delete all related Content
-             upon expiration of the Authorization.
+ Any violation of this License constitutes an infringement of the Author's
+ copyright. The Author reserves the right to pursue all available remedies,
+ including:
 
-    The following do not constitute valid Authorization under this
-    License: verbal agreements or verbal permissions; implied
-    licenses or permissions inferred from conduct; unilateral
-    declarations or interpretations by either party; permissions
-    conveyed or relayed through third parties; and expired or
-    out-of-scope historical authorizations.
+  (a) Civil remedies, including cessation of the infringing activity,
+  elimination of its effects, public apology, and full compensation for all
+  direct and indirect damages as well as reasonable enforcement costs;
 
-    Contact: https://github.com/ERX399
+  (b) Administrative complaints to the relevant authorities and application for
+  administrative penalties;
 
+  (c) Criminal prosecution where the circumstances of the infringement are
+  sufficiently serious;
 
-Article 5  Third-Party Components
+  (d) DMCA takedown notices or equivalent platform complaints submitted to
+  GitHub and any other relevant platform.
 
 
-    This repository may reference or incorporate Third-Party
-    Components. Such components are governed solely by their own
-    respective licenses and are not covered by this License.
+Article 8 Governing Law and Jurisdiction
 
-    The Author makes no claim of ownership over any Third-Party
-    Component. The presence of Third-Party Components does not
-    expand the rights granted to You under this License in any
-    respect. You are solely responsible for reviewing and complying
-    with the applicable license terms of any Third-Party Components
-    you access. The Author bears no liability for any dispute, claim
-    or loss arising from Third-Party Components.
+ This License is governed by the Copyright Law of the People's Republic of
+ China (2020 Amendment), the Civil Code of the People's Republic of China, the
+ Cybersecurity Law of the People's Republic of China, the Regulations on the
+ Protection of the Right to Network Dissemination of Information, the Berne
+ Convention for the Protection of Literary and Artistic Works, the WIPO
+ Copyright Treaty (WCT), the Agreement on Trade-Related Aspects of Intellectual
+ Property Rights (TRIPS) and the Universal Copyright Convention (UCC).
 
+ Any dispute arising out of or in connection with this License shall be
+ submitted to the exclusive jurisdiction of the competent People's Court at the
+ Author's domicile.
 
-Article 6  Disclaimer of Warranties
 
+Article 9 General Provisions
 
-    THE CONTENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
-    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
-    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OR
-    NON-INFRINGEMENT.
+ 9.1 Severability. If any provision of this License is held invalid or
+ unenforceable, such invalidity shall not affect the remaining provisions, which
+ shall continue in full force and effect.
 
-    IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
-    INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING
-    FROM ACCESS TO, USE OF OR RELIANCE ON THE CONTENT OR ANY
-    THIRD-PARTY COMPONENTS REFERENCED HEREIN, EVEN IF THE AUTHOR
-    HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ 9.2 No Waiver. The Author's failure to enforce any provision in a particular
+ instance shall not constitute a waiver of the right to enforce it in the
+ future.
 
-    The Author reserves the right to modify, remove, restrict access
-    to or discontinue the Content at any time without prior notice
-    and without incurring any liability.
+ 9.3 Amendments. The Author reserves the right to amend this License at any
+ time. Continued access to the Content following publication of an amendment
+ constitutes acceptance of the amended terms.
 
+ 9.4 Entire Agreement. This License constitutes the entire agreement between
+ You and the Author with respect to the Content and supersedes all prior oral or
+ written understandings on the same subject matter.
 
-Article 7  Enforcement and Liability
+ 9.5 Effective Date and Term. This License takes effect on the date the Content
+ is first published and remains in force until explicitly terminated in writing
+ by the Author.
 
 
-    Any violation of this License constitutes an infringement of the
-    Author's copyright. The Author reserves the right to pursue all
-    available remedies against infringers, including:
-
-        (a)  Civil remedies, including cessation of the infringing
-             activity, elimination of its effects, public apology,
-             and full compensation for all direct and indirect
-             damages as well as reasonable enforcement costs;
-
-        (b)  Administrative complaints to the relevant authorities
-             and application for the imposition of administrative
-             penalties;
-
-        (c)  Criminal prosecution where the circumstances of the
-             infringement are sufficiently serious;
-
-        (d)  DMCA takedown notices or equivalent platform complaints
-             submitted to GitHub and any other relevant platform.
-
-
-Article 8  Governing Law and Jurisdiction
-
-
-    This License is governed by and construed in accordance with
-    the Copyright Law of the People's Republic of China (2020
-    Amendment), the Civil Code of the People's Republic of China,
-    the Cybersecurity Law of the People's Republic of China, the
-    Regulations on the Protection of the Right to Network
-    Dissemination of Information, the Berne Convention for the
-    Protection of Literary and Artistic Works, the WIPO Copyright
-    Treaty (WCT), the Agreement on Trade-Related Aspects of
-    Intellectual Property Rights (TRIPS) and the Universal Copyright
-    Convention (UCC).
-
-    Any dispute arising out of or in connection with this License
-    shall be submitted to the exclusive jurisdiction of the competent
-    People's Court at the Author's domicile.
-
-
-Article 9  General Provisions
-
-
-    9.1  Severability. If any provision of this License is held
-         invalid or unenforceable by a competent authority, such
-         invalidity shall not affect the remaining provisions, which
-         shall continue in full force and effect.
-
-    9.2  No Waiver. The Author's failure to enforce any provision
-         of this License in a particular instance shall not constitute
-         a waiver of the Author's right to enforce that provision
-         in the future.
-
-    9.3  Amendments. The Author reserves the right to amend this
-         License at any time. Amendments take effect upon publication.
-         Continued access to the Content following publication of an
-         amendment constitutes acceptance of the amended terms.
-
-    9.4  Entire Agreement. This License constitutes the entire
-         agreement between You and the Author with respect to the
-         Content and supersedes all prior oral or written
-         understandings relating to the same subject matter.
-
-    9.5  Effective Date and Term. This License takes effect on the
-         date the Content is first published and remains in force
-         until explicitly terminated in writing by the Author.
-
-
-              Infringement will be prosecuted to the fullest
-              extent of the law. No use permitted without Authorization.
+ Infringement will be prosecuted to the fullest extent of the law.
+ No use permitted without Authorization.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
